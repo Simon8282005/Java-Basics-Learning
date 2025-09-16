@@ -40,7 +40,7 @@ public class Factorial_HowManyTrailingZero {
             count += input / factor;
             factor *= 5;  // Manipulate the factor by multiply by 5
 
-            if (input / factor < 1) {  // If the divide result is float, the java will convert it to 0 integer
+            if (input / factor < 1) {  // If the divide result is float, the java will convert it to 0 (integer
                 break;
             }
         }
