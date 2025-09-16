@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-7-2025/1-7-2025.iml" filepath="$PROJECT_DIR$/1-7-2025/1-7-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-6-2025/13-6-2025.iml" filepath="$PROJECT_DIR$/13-6-2025/13-6-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-5-2025/19-5-2025.iml" filepath="$PROJECT_DIR$/19-5-2025/19-5-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-6-2025/19-6-2025.iml" filepath="$PROJECT_DIR$/19-6-2025/19-6-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-6-2025/20-6-2025.iml" filepath="$PROJECT_DIR$/20-6-2025/20-6-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-4-2025/21-4-2025.iml" filepath="$PROJECT_DIR$/21-4-2025/21-4-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-6-2025/21-6-2025.iml" filepath="$PROJECT_DIR$/21-6-2025/21-6-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-5-2025/26-5-2025.iml" filepath="$PROJECT_DIR$/26-5-2025/26-5-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-7-2025/3-7-2025.iml" filepath="$PROJECT_DIR$/3-7-2025/3-7-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-7-2025/4-7-2025.iml" filepath="$PROJECT_DIR$/4-7-2025/4-7-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-7-2025/Concept Practice/Concept Practice.iml" filepath="$PROJECT_DIR$/3-7-2025/Concept Practice/Concept Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloIDEA.iml" filepath="$PROJECT_DIR$/HelloIDEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwingPractice/JavaSwingPractice.iml" filepath="$PROJECT_DIR$/JavaSwingPractice/JavaSwingPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab Test/Lab Test.iml" filepath="$PROJECT_DIR$/Lab Test/Lab Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-7-2025/UI test/UI test.iml" filepath="$PROJECT_DIR$/4-7-2025/UI test/UI test.iml" />
+    </modules>
+  </component>
+</project>
